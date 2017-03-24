@@ -1,0 +1,19 @@
+{
+  "name": "100-days-of-code-terminal-logger",
+  "version": "0.0.1",
+  "description": "I want to make tracking my progress really simple. I want to first write a terminal based app to help me keep track of it, and eventually wrap a gui.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paul-nelson-baker/100-days-of-code-terminal-logger.git"
+  },
+  "author": "github.com/paul-nelson-baker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paul-nelson-baker/100-days-of-code-terminal-logger/issues"
+  },
+  "homepage": "https://github.com/paul-nelson-baker/100-days-of-code-terminal-logger#readme"
+}
